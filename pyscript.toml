@@ -1,11 +1,6 @@
-name = "Soft Mode"
+name = "Name"
 
-# Install packages to be used in this project
-packages = ["pyscript"]
-
-# Bundle your project into a zip file which can be downloaded or used
-# as a module in your Anaconda Toolbox Excel Add-in
-# export = true
+packages = ["PyScript","pygame"]
 
 # Fetch arbitrary content from URLs onto the virtual filesystem, just map a valid
 # URL to a destination in the filesystem path
